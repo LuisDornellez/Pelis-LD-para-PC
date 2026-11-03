@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Pelis LD</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+  <aside id="side">
+    <div id="brand"><span>PELIS</span><b> LD</b></div>
+    <div id="tabs">
+      <button id="btnAll" class="chip on">Todos</button>
+      <button id="btnFavs" class="chip">Favoritos</button>
+      <button id="btnLists" class="chip">Listas</button>
+    </div>
+    <div id="tools">
+      <button id="btnRest" class="chip">🌙 Descanso</button>
+      <button id="btnRestTune" class="chip">⚙ Ajustar</button>
+      <button id="btnEq" class="chip">🎚 Ecualizador</button>
+    </div>
+    <input id="search" type="search" placeholder="Buscar canal">
+    <select id="groupSel"></select>
+    <div id="opts">
+      <label><input type="checkbox" id="optDup"> Sin duplicados</label>
+      <label><input type="checkbox" id="optDown"> Ocultar caídos</label>
+    </div>
+    <div id="count"></div>
+    <div id="chlist"></div>
+    <div id="credit">Creado por Luis Dornellez · <a href="#" id="site">www.luisdornellez.com</a></div>
+  </aside>
+
+  <main id="player">
+    <video id="video" autoplay></video>
+    <div id="status"></div>
+    <div id="restPlayer" class="rest hidden"></div>
+    <div id="top"><span id="title"></span></div>
+    <div id="controls">
+      <button id="bPrev" title="Canal anterior (↓ / PgDn)">⏮</button>
+      <button id="bPlay" title="Pausar (Espacio)">⏸</button>
+      <button id="bNext" title="Canal siguiente (↑ / PgUp)">⏭</button>
+      <button id="bFav" title="Favorito (F)">☆</button>
+      <span class="grow"></span>
+      <span id="volIcon">🔊</span>
+      <input id="vol" type="range" min="0" max="1" step="0.05" value="1">
+      <select id="qual" title="Calidad"><option value="-1">Auto</option></select>
+      <button id="bFull" title="Pantalla completa (Enter / doble clic)">⛶</button>
+    </div>
+  </main>
+</div>
+
+<div id="modal" class="hidden"><div id="dlg">
+  <h3>Listas M3U</h3>
+  <div id="lists"></div>
+  <div class="row">
+    <input id="newUrl" type="text" placeholder="https://…/lista.m3u" style="flex:1">
+    <button id="addUrl" class="btn gold">Agregar</button>
+  </div>
+  <label style="font-size:13px"><input type="checkbox" id="optMovies"> Lista inicial: solo películas</label>
+  <div class="row wrap">
+    <button id="impFile" class="btn">Importar archivo M3U</button>
+    <button id="refresh" class="btn">Actualizar listas</button>
+    <button id="bkSave" class="btn">Guardar copia</button>
+    <button id="bkLoad" class="btn">Restaurar copia</button>
+    <button id="clearDown" class="btn">Limpiar caídos</button>
+  </div>
+  <div class="row end"><button id="closeDlg" class="btn">Cerrar</button></div>
+</div></div>
+<div id="restModal" class="hidden"><div class="dlg2">
+  <h3>Descanso visual</h3>
+  <div id="restBox"></div>
+  <div class="row end">
+    <button id="restOff" class="btn">Apagar</button>
+    <button id="restReset" class="btn">Restablecer</button>
+    <button id="restDone" class="btn gold">Listo</button>
+  </div>
+</div></div>
+<div id="eqModal" class="hidden"><div class="dlg2">
+  <h3>Ecualizador</h3>
+  <label><input type="checkbox" id="eqOn"> Ecualizador activado</label>
+  <select id="eqPre"></select>
+  <div id="eqBox"></div>
+  <div class="row end">
+    <button id="eqReset" class="btn">Restablecer</button>
+    <button id="eqDone" class="btn gold">Listo</button>
+  </div>
+</div></div>
+<div id="restBody" class="rest hidden"></div>
+<div id="toast"></div>
+<input type="file" id="fileM3u" accept=".m3u,.m3u8,.txt" multiple hidden>
+<input type="file" id="fileBk" accept=".json" hidden>
+
+<script src="node_modules/hls.js/dist/hls.min.js"></script>
+<script src="node_modules/mpegts.js/dist/mpegts.js"></script>
+<script src="renderer.js"></script>
+</body>
+</html>

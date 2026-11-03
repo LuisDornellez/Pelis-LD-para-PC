@@ -1,0 +1,275 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GloboSP" tvg-name="GLOBO SP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO SP HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1701.m3u8
+#EXTINF:-1 tvg-id="GloboSP" tvg-name="GLOBO SP SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO SP SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1700.m3u8
+#EXTINF:-1 tvg-id="GloboRJ" tvg-name="GLOBO RJ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO RJ HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1683.m3u8
+#EXTINF:-1 tvg-id="GloboRJ" tvg-name="GLOBO RJ SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO RJ SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1678.m3u8
+#EXTINF:-1 tvg-id="GloboMinas" tvg-name="GLOBO MINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO MINAS HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1574.m3u8
+#EXTINF:-1 tvg-id="GloboMinas" tvg-name="GLOBO MINAS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO MINAS SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1573.m3u8
+#EXTINF:-1 tvg-id="GloboBrasilia" tvg-name="GLOBO BRASILIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO BRASILIA HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1539.m3u8
+#EXTINF:-1 tvg-id="GloboBrasilia" tvg-name="GLOBO BRASILIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO BRASILIA SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1519.m3u8
+#EXTINF:-1 tvg-id="GloboNordeste" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO NORDESTE HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1582.m3u8
+#EXTINF:-1 tvg-id="GloboNordeste" tvg-name="GLOBO NORDESTE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO NORDESTE SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1576.m3u8
+#EXTINF:-1 tvg-id="GloboSP" tvg-name="GLOBO EPTV ARARAQUARA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO EPTV ARARAQUARA SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1543.m3u8
+#EXTINF:-1 tvg-id="GloboSP" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO EPTV CAMPINAS HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1545.m3u8
+#EXTINF:-1 tvg-id="GloboSP" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO EPTV CAMPINAS SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1544.m3u8
+#EXTINF:-1 tvg-id="GloboSP" tvg-name="GLOBO EPTV RIBEIRÃO PRETO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO EPTV RIBEIRÃO PRETO HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1546.m3u8
+#EXTINF:-1 tvg-id="GloboSP" tvg-name="GLOBO EPTV RIBEIRÃO PRETO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO EPTV RIBEIRÃO PRETO SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1557.m3u8
+#EXTINF:-1 tvg-id="GloboSP" tvg-name="GLOBO EPTV SÃO CARLOS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO EPTV SÃO CARLOS SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO GAZETA SUL ES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO GAZETA SUL ES SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/22656.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV ALTO LITORAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO INTER TV ALTO LITORAL HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3912.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV ALTO LITORAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO INTER TV ALTO LITORAL SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3913.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV DOS VALES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO INTER TV DOS VALES HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3915.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV DOS VALES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO INTER TV DOS VALES SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3916.m3u8
+#EXTINF:-1 tvg-id="GloboMinas" tvg-name="GLOBO INTER TV GRANDE MINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO INTER TV GRANDE MINAS HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3918.m3u8
+#EXTINF:-1 tvg-id="GloboMinas" tvg-name="GLOBO INTER TV GRANDE MINAS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO INTER TV GRANDE MINAS SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3919.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV NATAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO INTER TV NATAL SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1560.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV SERRA MAR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO INTER TV SERRA MAR HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3921.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV SERRA MAR SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO INTER TV SERRA MAR SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3922.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Manaus HD" tvg-logo="" group-title="Globo",Globo Manaus HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13589.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MARANHÃO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO MARANHÃO HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/22659.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV BLUMENAU HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO NSC TV BLUMENAU HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3924.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV BLUMENAU SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO NSC TV BLUMENAU SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3925.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CHAPECO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO NSC TV CHAPECO HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3071.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV CHAPECO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO NSC TV CHAPECO SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV FLORIANOPOLIS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO NSC TV FLORIANOPOLIS HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1608.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV FLORIANOPOLIS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO NSC TV FLORIANOPOLIS SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1585.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV JOINVILLE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO NSC TV JOINVILLE HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3930.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV JOINVILLE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO NSC TV JOINVILLE SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3931.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo Paraiba HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",Globo Paraiba HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/22657.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO PIAUI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO PIAUI HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/22658.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV CAXIAS DO SUL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO RBS TV CAXIAS DO SUL HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3927.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV CAXIAS DO SUL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO RBS TV CAXIAS DO SUL SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3928.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PELOTAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO RBS TV PELOTAS HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3933.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PELOTAS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO RBS TV PELOTAS SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3934.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PORTO ALEGRE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO RBS TV PORTO ALEGRE HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1632.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PORTO ALEGRE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO RBS TV PORTO ALEGRE SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1631.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE AM. MANAUS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO REDE AM. MANAUS SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1633.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO RPC CURITIBA HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1698.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO RPC CURITIBA SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1655.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC FOZ DO IGUACU HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO RPC FOZ DO IGUACU HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3280.m3u8
+#EXTINF:-1 tvg-id="GloboSP" tvg-name="GLOBO RPC MARINGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO RPC MARINGA HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1514.m3u8
+#EXTINF:-1 tvg-id="GloboSP" tvg-name="GLOBO RPC MARINGA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO RPC MARINGA SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO TV ANHANGUERA HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1847.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO TV ANHANGUERA SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1703.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BAHIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO TV BAHIA HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/2141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BAHIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO TV BAHIA SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/2100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV C. AMÉRICA CUIABA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO TV C. AMÉRICA CUIABA SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/2155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CABO BRANCO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO TV CABO BRANCO HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CABO BRANCO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO TV CABO BRANCO SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3937.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CLUBE TERESINA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO TV CLUBE TERESINA HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3456.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CLUBE TERESINA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO TV CLUBE TERESINA SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3439.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA ALAGOAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO TV GAZETA ALAGOAS HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3907.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA ALAGOAS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO TV GAZETA ALAGOAS SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3905.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA SUL ES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO TV GAZETA SUL ES HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA VITÓRIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO TV GAZETA VITÓRIA HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3765.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA VITÓRIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO TV GAZETA VITÓRIA SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3763.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV LIBERAL BELEM SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO TV LIBERAL BELEM SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/2275.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE SAO LUIS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO TV MIRANTE SAO LUIS HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3899.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE SAO LUIS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO TV MIRANTE SAO LUIS SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MORENA CAMPO GRANDE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO TV MORENA CAMPO GRANDE HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3902.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MORENA CAMPO GRANDE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO TV MORENA CAMPO GRANDE SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL HD" tvg-logo="" group-title="Globo",GLOBO TV RIO SUL HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3939.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO TV RIO SUL SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3940.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SANTA CRUZ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO TV SANTA CRUZ HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SANTA CRUZ SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO TV SANTA CRUZ SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SERGIPE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO TV SERGIPE HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3768.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SERGIPE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO TV SERGIPE SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/3766.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM BAURU SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO TV TEM BAURU SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/2315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM S. J. DO RIO PRETO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO TV TEM S. J. DO RIO PRETO HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/2592.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM S. J. DO RIO PRETO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO TV TEM S. J. DO RIO PRETO SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/2654.m3u8
+#EXTINF:-1 tvg-id="GloboSP" tvg-name="GLOBO TV TEM SOROCABA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO TV TEM SOROCABA SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/2393.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TRIBUNA SANTOS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO TV TRIBUNA SANTOS SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/2720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VANGUARDA S. J. DOS CAMPOS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO TV VANGUARDA S. J. DOS CAMPOS SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/2782.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VERDES MARES FORTALEZA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",GLOBO TV VERDES MARES FORTALEZA SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/2812.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RPC Parana HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Globo",RPC Parana HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13653.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="TV Aberta",SBT HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13179.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="TV Aberta",SBT SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13178.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SP INTERIOR SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="TV Aberta",SBT SP INTERIOR SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD  PARANAÍBA HD " tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="TV Aberta",RECORD  PARANAÍBA HD 
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13634.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="TV Aberta",RECORD BAHIA HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13632.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD CAMPINAS HD " tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="TV Aberta",RECORD CAMPINAS HD 
+http://udq.me:80/live/7SyrYN0fMy/3772288787/22660.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD GOIANIA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="TV Aberta",RECORD GOIANIA HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/22664.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD PARANA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="TV Aberta",RECORD PARANA HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/22662.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SANTA CATARINA HD" tvg-logo="" group-title="TV Aberta",RECORD SANTA CATARINA HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/22661.m3u8
+#EXTINF:-1 tvg-id="RecordSJRPHD" tvg-name="Record SÃO JOSÉ RIO PRETO HD " tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="TV Aberta",Record SÃO JOSÉ RIO PRETO HD 
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13625.m3u8
+#EXTINF:-1 tvg-id="TVCabraliaHD" tvg-name="RECORDTV BA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="TV Aberta",RECORDTV BA HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13171.m3u8
+#EXTINF:-1 tvg-id="AE" tvg-name="RECORDTV BA SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="TV Aberta",RECORDTV BA SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13172.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV BELEM HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="TV Aberta",RECORDTV BELEM HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV BELEM SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="TV Aberta",RECORDTV BELEM SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV DF HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="TV Aberta",RECORDTV DF HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV DF SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="TV Aberta",RECORDTV DF SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV GO HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="TV Aberta",RECORDTV GO HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV GO SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="TV Aberta",RECORDTV GO SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13161.m3u8
+#EXTINF:-1 tvg-id="AE" tvg-name="RECORDTV MG HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="TV Aberta",RECORDTV MG HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13169.m3u8
+#EXTINF:-1 tvg-id="AE" tvg-name="RECORDTV MG SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="TV Aberta",RECORDTV MG SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV RIO HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="TV Aberta",RECORDTV RIO HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV RIO SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="TV Aberta",RECORDTV RIO SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV RS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="TV Aberta",RECORDTV RS HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV RS SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="TV Aberta",RECORDTV RS SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13176.m3u8
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORDTV SP HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="TV Aberta",RECORDTV SP HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13166.m3u8
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORDTV SP SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="TV Aberta",RECORDTV SP SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND INTERNACIONAL EUA hd" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="TV Aberta",BAND INTERNACIONAL EUA hd
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13185.m3u8
+#EXTINF:-1 tvg-id="BANDCAMPINASHD" tvg-name="BAND SP HD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="TV Aberta",BAND SP HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13183.m3u8
+#EXTINF:-1 tvg-id="BANDCAMPINASHD" tvg-name="BAND SP SD" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="TV Aberta",BAND SP SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13182.m3u8
+#EXTINF:-1 tvg-id="RedeTV" tvg-name="REDE TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="TV Aberta",REDE TV HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13187.m3u8
+#EXTINF:-1 tvg-id="RedeTV" tvg-name="REDE TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="TV Aberta",REDE TV SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13186.m3u8
+#EXTINF:-1 tvg-id="Futura" tvg-name="FUTURA HD" tvg-logo=" https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/9/99/Canal_Futura_2001.png/revision/latest?cb=20190209220424" group-title="TV Aberta",FUTURA HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13193.m3u8
+#EXTINF:-1 tvg-id="Futura" tvg-name="FUTURA SD" tvg-logo=" https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/9/99/Canal_Futura_2001.png/revision/latest?cb=20190209220424" group-title="TV Aberta",FUTURA SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13192.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/NBR_Logo.svg" group-title="TV Aberta",NBR HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13205.m3u8
+#EXTINF:-1 tvg-id="RedeBrasil" tvg-name="REDE BRASIL SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png" group-title="TV Aberta",REDE BRASIL SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13197.m3u8
+#EXTINF:-1 tvg-id="TerraViva" tvg-name="TERRA VIVA HD" tvg-logo=" https://logodownload.org/wp-content/uploads/2017/11/terra-viva-logo.png" group-title="TV Aberta",TERRA VIVA HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13201.m3u8
+#EXTINF:-1 tvg-id="TVBrasil" tvg-name="TV BRASIL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png" group-title="TV Aberta",TV BRASIL SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13196.m3u8
+#EXTINF:-1 tvg-id="TVBrasil" tvg-name="TV Brasil SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png" group-title="TV Aberta",TV Brasil SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/35915.m3u8
+#EXTINF:-1 tvg-id="TVCamara" tvg-name="TV CAMARA SD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="TV Aberta",TV CAMARA SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13203.m3u8
+#EXTINF:-1 tvg-id="TVCultura" tvg-name="TV CULTURA HD" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.png" group-title="TV Aberta",TV CULTURA HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13190.m3u8
+#EXTINF:-1 tvg-id="TVCultura" tvg-name="TV CULTURA SD" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.png" group-title="TV Aberta",TV CULTURA SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13189.m3u8
+#EXTINF:-1 tvg-id="TVEscola" tvg-name="TV ESCOLA SD" tvg-logo="https://tvescola.org.br/wp-content/uploads/2019/03/tv-escola-vetor-horizontal-pt.png" group-title="TV Aberta",TV ESCOLA SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13195.m3u8
+#EXTINF:-1 tvg-id="GAZETASPHD" tvg-name="TV GAZETA SP HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/tv-gazeta-logo.png" group-title="TV Aberta",TV GAZETA SP HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13199.m3u8
+#EXTINF:-1 tvg-id="GAZETASPHD" tvg-name="TV GAZETA SP SD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/tv-gazeta-logo.png" group-title="TV Aberta",TV GAZETA SP SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV JUSTIÇA SD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-167-canal-tv-justica.png" group-title="TV Aberta",TV JUSTIÇA SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13202.m3u8
+#EXTINF:-1 tvg-id="TVSenado" tvg-name="TV SENADO SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-senado-logo.png" group-title="TV Aberta",TV SENADO SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/13204.m3u8
+#EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="Notícias",BAND NEWS HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1504.m3u8
+#EXTINF:-1 tvg-id="BandNews" tvg-name="BAND NEWS SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="Notícias",BAND NEWS SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1502.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png" group-title="Notícias",CNN BRASIL HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/22587.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL SD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png" group-title="Notícias",CNN BRASIL SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/22588.m3u8
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="GLOBO NEWS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png" group-title="Notícias",GLOBO NEWS HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1460.m3u8
+#EXTINF:-1 tvg-id="GloboSP" tvg-name="GLOBO NEWS SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png" group-title="Notícias",GLOBO NEWS SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1435.m3u8
+#EXTINF:-1 tvg-id="RecordNews" tvg-name="RECORD NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" group-title="Notícias",RECORD NEWS HD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1510.m3u8
+#EXTINF:-1 tvg-id="RecordNews" tvg-name="RECORD NEWS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" group-title="Notícias",RECORD NEWS SD
+http://udq.me:80/live/7SyrYN0fMy/3772288787/1512.m3u8

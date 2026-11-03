@@ -1,0 +1,44 @@
+{
+  "name": "pelisld-pc",
+  "version": "2.0.0",
+  "description": "Pelis LD para PC",
+  "main": "main.js",
+  "author": "Pelis LD",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder --win portable --x64 --publish never"
+  },
+  "dependencies": {
+    "hls.js": "^1.5.0",
+    "mpegts.js": "^1.7.3"
+  },
+  "devDependencies": {
+    "electron": "^31.7.0",
+    "electron-builder": "^24.13.3"
+  },
+  "build": {
+    "appId": "com.pelisld.pc",
+    "productName": "PelisLD",
+    "win": {
+      "target": [
+        {
+          "target": "portable",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "icon": "icon.png"
+    },
+    "portable": {
+      "artifactName": "PelisLD-PC.exe"
+    },
+    "files": [
+      "**/*",
+      "!listas/**",
+      "!scripts/**",
+      "!config.json",
+      "!.github/**"
+    ]
+  }
+}

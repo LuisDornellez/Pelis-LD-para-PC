@@ -1,0 +1,36 @@
+PELIS LD PARA PC (Windows)
+
+CÓMO GENERAR EL .EXE
+  A) En Windows, con Node.js instalado: doble clic en build-windows.bat
+     -> sale dist\PelisLD-PC.exe (portable, no necesita instalación)
+  B) Con GitHub: sube esta carpeta a un repositorio. La pestaña Actions
+     compila sola ("Build Windows EXE") y el .exe queda en Artifacts.
+
+ALTERNATIVA SIN GENERAR .EXE: doble clic en Iniciar-PelisLD.bat
+  (necesita Node.js; la primera vez descarga los componentes, luego abre directo).
+
+PROBAR SIN GENERAR EL .EXE:  npm install  y luego  npm start
+
+LISTAS ACTUALIZABLES DESDE GITHUB (igual que la app de Android)
+  1. Sube TODO el contenido de esta carpeta a tu repositorio de GitHub (incluida la carpeta oculta .github).
+     Si ya usas el mismo repositorio que la app de Android/TV, las listas son las mismas: solo agrega lo que falte.
+  2. El repositorio debe ser público.
+  3. Settings > Actions > General > Workflow permissions > Read and write permissions > Save.
+  4. En la pestaña Actions corre "Actualizar listas M3U": verifica cada lista y guarda en la carpeta
+     listas/ solo los canales que funcionan. Se repite sola todos los días (06:00 UTC = 03:00 en Uruguay).
+  5. El .exe que compila "Build Windows EXE" ya sabe de qué repositorio leer las listas.
+  La app las descarga al abrirse (y con el botón de actualizar). Si una lista verificada aún no existe o
+  no responde, usa la original. Para agregar o quitar listas, edita config.json.
+  Si abres la app con Iniciar-PelisLD.bat o npm start (sin compilar en GitHub), escribe tu repositorio en
+  lists-config.json:  {"repo": "usuario/repositorio"}  Sin eso usa las listas originales.
+
+La lista Globo-SBT-BR viene desactivada: actívala con su casilla en el botón «Listas».
+
+ATAJOS: Espacio pausa | ↑/↓ o PgUp/PgDn cambia de canal | Enter o doble clic
+pantalla completa | F favorito | M silencio
+
+FIRMA DIGITAL: el .exe sale sin firmar. Si Windows avisa (SmartScreen), pulsa
+  "Más información" y luego "Ejecutar de todas formas".
+
+Nota: el modo control/puntero (exclusivo de TV) no se portó. El ecualizador y el
+Descanso visual sí están (en el brillo, el Descanso atenúa con una capa oscura).
