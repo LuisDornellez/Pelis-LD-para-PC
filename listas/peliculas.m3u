@@ -1253,6 +1253,8 @@ https://cdn.pishow.tv/ott/live/337/master.m3u8
 http://stream.mcquack.net/75/index.m3u8
 #EXTINF:-1 tvg-id="ShubhCinemaTV.in@SD" tvg-logo="https://i.imgur.com/RQhorAG.png" group-title="Movies",Shubh Cinema TV (720p)
 https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
+#EXTINF:-1 tvg-id="SilkWayCinema.kz@SD" tvg-logo="https://www.cableman.ru/sites/default/files/Silk-way-CINEMA.png" group-title="Movies",Silk Way Cinema (1080p) [Geo-blocked]
+https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8
 #EXTINF:-1 tvg-id="SkyCinemaAction.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sky_Cinema_Action_-_Logo_2021.svg/960px-Sky_Cinema_Action_-_Logo_2021.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Movies",Sky Cinema Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://109.169.87.42:8080/stream/26/index.m3u8
@@ -1387,8 +1389,6 @@ http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 https://cdn.pishow.tv/ott/live/276/master.m3u8
 #EXTINF:-1 tvg-id="SundanceTV.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/960px-SundanceTV_2014.svg.png" group-title="Movies",Sundance TV (Poland) (576i)
 http://92.114.85.87:8003/play/a004/index.m3u8
-#EXTINF:-1 tvg-id="SuriyanTV.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Suriyan-tv-logo_2000_X_1125_Transpharent.png" group-title="Movies",Suriyan TV (576p)
-https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8
 #EXTINF:-1 tvg-id="SYFY.us@East" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Movies;Series",SYFY (720p)
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1 tvg-id="T2Movies.ir@SD" tvg-logo="" group-title="Movies",T2 Movies
@@ -1500,6 +1500,8 @@ http://46.53.200.153:7777/play/a01g/index.m3u8
 http://46.53.200.153:7777/play/Viju_Megahit_HD/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusPremiere.ru@HD" tvg-logo="https://i.imgur.com/klRvhR5.png" group-title="Movies",viju+ Premiere HD (1080p)
 http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8
+#EXTINF:-1 tvg-id="VinhLongTV3.vn@SD" tvg-logo="https://i.imgur.com/OQXEhqu.png" group-title="Entertainment;Movies",Vinh Long TV 3 (720p)
+https://dethich.pw/thvl3/index.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel.us@Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png" group-title="Movies",Warner Channel Colombia (1080p)
 http://38.134.250.110:8000/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel.us@Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png" group-title="Movies",Warner Channel Mexico (1080p) [Geo-blocked]
@@ -1529,6 +1531,8 @@ https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
 #EXTINF:-1 tvg-id="YesMoviesAction.il@SD" tvg-logo="https://i.imgur.com/Bgz7p5F.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Yes Movies Action (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/380/index.m3u8
+#EXTINF:-1 tvg-id="ZBCinema.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZBCINEMA.png" group-title="Classic;Movies",ZB Cinema (1080p)
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in@APAC" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",Zee Cinema APAC (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
 #EXTINF:-1 tvg-id="ZeeSouthFlix.in@HD" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="Movies",Zee South Flix (1080p)
